@@ -48,7 +48,7 @@ In particular,
 
 <div class="home-bottom-row">
 <div class="home-social-footer">
-<a href="https://github.com/yuki-mizuno728"
+<a href="https://github.com/ymizuno728"
 target="_blank"
 rel="noopener noreferrer"
 title="GitHub"
