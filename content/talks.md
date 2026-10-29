@@ -1,7 +1,7 @@
 ---
 #date: '2026-05-10T23:41:42+02:00'
 draft: false
-title: 'Talks'
+title: 'Talks & Events'
 ---
 
 <style>

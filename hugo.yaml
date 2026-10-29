@@ -31,7 +31,7 @@ menu:
     - name: "Research"
       url: "/research/"
       weight: 30
-    - name: "Talks"
+    - name: "Talks & Events"
       url: "/talks/"
       weight: 40
 
