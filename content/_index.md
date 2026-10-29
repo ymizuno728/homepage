@@ -79,6 +79,15 @@ aria-label="ORCID">
 d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM7.119 20.452H3.554V9H7.12v11.452z"/>
 </svg>
 </a>
+<a href="https://scholar.google.com/citations?user=WxDm8SEAAAAJ"
+   target="_blank"
+   rel="noopener noreferrer"
+   title="Google Scholar"
+   aria-label="Google Scholar">
+<svg viewBox="0 0 24 24" aria-hidden="true">
+<path fill="currentColor" d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
+</svg>
+</a>
 </div>
 <div class="home-lastmod">
 {{< lastmod >}}
