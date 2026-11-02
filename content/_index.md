@@ -45,6 +45,7 @@ In particular,
 
  y.mizuno[at]uu.nl &ensp;or&ensp;  m7d5932a72xxgxo[at]fuji.waseda.jp<br>	
 [at] should be replaced with @. (mizuno.y[at]aoni.waseda.jp is no longer available)
+<br><small>(This website was formerly at <a href="https://yuki-mizuno728.github.io/homepage/">yuki-mizuno728.github.io/homepage</a>.)</small>
 
 <div class="home-bottom-row">
 <div class="home-social-footer">
